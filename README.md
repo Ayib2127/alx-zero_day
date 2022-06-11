@@ -1,1 +1,1 @@
-My first read me
+Creating My first directory
